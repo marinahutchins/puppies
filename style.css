@@ -1,8 +1,18 @@
+body
+
+{
+
+background-color: darkslategrey;
+
+}
+
 header
 
 {
 
 text-align: center;
+font-size: 100px;
+color: cadetblue;
 
 }
 
@@ -13,4 +23,6 @@ p
 {
 
   text-align: center;  
+  color: chartreuse;
+  font-size: 35px;
 }
